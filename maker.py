@@ -1,3 +1,4 @@
+# A file to make the prankulator.py
 Text = """print("Enter number into the prankulator and get it calculated")
 a = int(input("enter your first number[Currently supports 1 to 100 only]: "))
 s = input("enter the operation you want the prankulator to perform(*,+,-,/):")
