@@ -1,2 +1,2 @@
 # Prankulator
-Prankulator, Just for fun not serious; inpired from Aclutoer
+Prankulator, Just for fun not serious; inpired from @Aclutoer
